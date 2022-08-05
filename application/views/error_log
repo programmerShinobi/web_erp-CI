@@ -1,0 +1,72 @@
+[09-Feb-2022 17:26:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/ewebid/public_html/application/views/v_email.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ewebid/public_html/application/views/v_email.php on line 1
+[09-Feb-2022 17:37:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/ewebid/public_html/application/views/v_email.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/ewebid/public_html/application/views/v_email.php on line 3
+[09-Feb-2022 17:39:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/ewebid/public_html/application/views/v_email.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ewebid/public_html/application/views/v_email.php on line 1
+[09-Feb-2022 17:41:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/ewebid/public_html/application/views/v_email.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ewebid/public_html/application/views/v_email.php on line 1
+[09-Feb-2022 17:42:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/ewebid/public_html/application/views/v_email.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ewebid/public_html/application/views/v_email.php on line 1
+[09-Feb-2022 17:46:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/ewebid/public_html/application/views/v_email.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/ewebid/public_html/application/views/v_email.php on line 3
+[09-Feb-2022 17:52:01 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/ewebid/public_html/application/views/v_email.php on line 4
+[09-Feb-2022 22:26:03 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/ewebid/public_html/application/views/v_email.php on line 4
+[09-Feb-2022 22:30:01 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/ewebid/public_html/application/views/v_email.php on line 4
+[09-Feb-2022 22:32:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/ewebid/public_html/application/views/v_email.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ewebid/public_html/application/views/v_email.php on line 7
+[09-Feb-2022 22:35:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/ewebid/public_html/application/views/v_email.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ewebid/public_html/application/views/v_email.php on line 7
+[09-Feb-2022 22:40:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/ewebid/public_html/application/views/v_email.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/ewebid/public_html/application/views/v_email.php on line 6
+[09-Feb-2022 22:51:02 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ewebid/public_html/application/views/v_email.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ewebid/public_html/application/views/v_email.php on line 10
+[09-Feb-2022 22:56:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/ewebid/public_html/application/views/v_email.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ewebid/public_html/application/views/v_email.php on line 7
+[09-Feb-2022 22:57:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/ewebid/public_html/application/views/v_email.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ewebid/public_html/application/views/v_email.php on line 7
+[10-Feb-2022 06:24:02 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/ewebid/public_html/application/views/v_email.php on line 12
+[10-Feb-2022 06:24:02 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ewebid_admin_perpus'@'localhost' (using password: YES) in /home/ewebid/public_html/application/views/v_email.php on line 18
+[10-Feb-2022 06:24:02 Asia/Jakarta] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/ewebid/public_html/application/views/v_email.php on line 19
+[10-Feb-2022 06:24:02 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ewebid/public_html/application/views/v_email.php on line 84
+[10-Feb-2022 06:24:02 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ewebid/public_html/application/views/v_email.php on line 86
+[10-Feb-2022 06:27:01 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/ewebid/public_html/application/views/v_email.php on line 67
+[10-Feb-2022 06:27:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ewebid/public_html/application/views/v_email.php:100
+Stack trace:
+#0 {main}
+  thrown in /home/ewebid/public_html/application/views/v_email.php on line 100
+[10-Feb-2022 06:31:01 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/ewebid/public_html/application/views/v_email.php on line 67
+[10-Feb-2022 06:31:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ewebid/public_html/application/views/v_email.php:100
+Stack trace:
+#0 {main}
+  thrown in /home/ewebid/public_html/application/views/v_email.php on line 100
+[10-Feb-2022 06:35:02 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/ewebid/public_html/application/views/v_email.php on line 67
+[10-Feb-2022 06:35:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ewebid/public_html/application/views/v_email.php:100
+Stack trace:
+#0 {main}
+  thrown in /home/ewebid/public_html/application/views/v_email.php on line 100
+[10-Feb-2022 02:53:04 UTC] PHP Parse error:  syntax error, unexpected 'justify' (T_STRING) in /home/ewebid/public_html/application/views/v_email.php on line 103

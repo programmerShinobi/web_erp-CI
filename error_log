@@ -1,0 +1,183 @@
+[13-Oct-2020 08:29:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function difine() in /home/ewebid/public_html/application/config/config.php:4
+Stack trace:
+#0 /home/ewebid/public_html/system/core/Common.php(249): require()
+#1 /home/ewebid/public_html/system/core/Common.php(300): get_config()
+#2 /home/ewebid/public_html/system/core/Common.php(171): config_item('subclass_prefix')
+#3 /home/ewebid/public_html/system/core/Common.php(652): load_class('Exceptions', 'core')
+#4 [internal function]: _exception_handler(Object(Error))
+#5 {main}
+  thrown in /home/ewebid/public_html/application/config/config.php on line 4
+[25-Jan-2021 10:39:22 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '/path/to/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/ewebid/public_html/application/views/v_login.php on line 180
+[01-Feb-2022 22:47:20 Asia/Jakarta] PHP Fatal error:  Cannot use [] for reading in /home/ewebid/public_html/application/controllers/Index.php on line 95
+[01-Feb-2022 22:48:06 Asia/Jakarta] PHP Fatal error:  Cannot use [] for reading in /home/ewebid/public_html/application/controllers/Index.php on line 95
+[01-Feb-2022 22:48:07 Asia/Jakarta] PHP Fatal error:  Cannot use [] for reading in /home/ewebid/public_html/application/controllers/Index.php on line 95
+[01-Feb-2022 22:48:07 Asia/Jakarta] PHP Fatal error:  Cannot use [] for reading in /home/ewebid/public_html/application/controllers/Index.php on line 95
+[01-Feb-2022 22:48:08 Asia/Jakarta] PHP Fatal error:  Cannot use [] for reading in /home/ewebid/public_html/application/controllers/Index.php on line 95
+[01-Feb-2022 22:56:22 Asia/Jakarta] PHP Fatal error:  Cannot use [] for reading in /home/ewebid/public_html/application/controllers/Index.php on line 95
+[01-Feb-2022 22:57:11 Asia/Jakarta] PHP Fatal error:  Class 'user_nama' not found in /home/ewebid/public_html/system/database/drivers/mysqli/mysqli_result.php on line 229
+[01-Feb-2022 22:57:12 Asia/Jakarta] PHP Fatal error:  Class 'user_nama' not found in /home/ewebid/public_html/system/database/drivers/mysqli/mysqli_result.php on line 229
+[01-Feb-2022 22:57:13 Asia/Jakarta] PHP Fatal error:  Class 'user_nama' not found in /home/ewebid/public_html/system/database/drivers/mysqli/mysqli_result.php on line 229
+[01-Feb-2022 22:57:13 Asia/Jakarta] PHP Fatal error:  Class 'user_nama' not found in /home/ewebid/public_html/system/database/drivers/mysqli/mysqli_result.php on line 229
+[01-Feb-2022 22:57:13 Asia/Jakarta] PHP Fatal error:  Class 'user_nama' not found in /home/ewebid/public_html/system/database/drivers/mysqli/mysqli_result.php on line 229
+[01-Feb-2022 22:57:13 Asia/Jakarta] PHP Fatal error:  Class 'user_nama' not found in /home/ewebid/public_html/system/database/drivers/mysqli/mysqli_result.php on line 229
+[01-Feb-2022 22:57:14 Asia/Jakarta] PHP Fatal error:  Class 'user_nama' not found in /home/ewebid/public_html/system/database/drivers/mysqli/mysqli_result.php on line 229
+[01-Feb-2022 22:57:14 Asia/Jakarta] PHP Fatal error:  Class 'user_nama' not found in /home/ewebid/public_html/system/database/drivers/mysqli/mysqli_result.php on line 229
+[01-Feb-2022 22:57:14 Asia/Jakarta] PHP Fatal error:  Class 'user_nama' not found in /home/ewebid/public_html/system/database/drivers/mysqli/mysqli_result.php on line 229
+[01-Feb-2022 22:57:15 Asia/Jakarta] PHP Fatal error:  Class 'user_nama' not found in /home/ewebid/public_html/system/database/drivers/mysqli/mysqli_result.php on line 229
+[01-Feb-2022 22:57:33 Asia/Jakarta] PHP Fatal error:  Cannot use [] for reading in /home/ewebid/public_html/application/controllers/Index.php on line 95
+[01-Feb-2022 22:57:34 Asia/Jakarta] PHP Fatal error:  Cannot use [] for reading in /home/ewebid/public_html/application/controllers/Index.php on line 95
+[01-Feb-2022 22:58:45 Asia/Jakarta] PHP Fatal error:  Cannot use [] for reading in /home/ewebid/public_html/application/controllers/Index.php on line 95
+[10-Feb-2022 03:18:02 UTC] PHP Parse error:  syntax error, unexpected '$headers' (T_VARIABLE) in /home/ewebid/public_html/v_email.php on line 93
+[10-Feb-2022 03:21:01 UTC] PHP Parse error:  syntax error, unexpected '$headers' (T_VARIABLE) in /home/ewebid/public_html/v_email.php on line 93
+[10-Feb-2022 03:27:01 UTC] PHP Parse error:  syntax error, unexpected '$headers' (T_VARIABLE) in /home/ewebid/public_html/v_email.php on line 88
+[10-Feb-2022 04:04:01 UTC] PHP Parse error:  syntax error, unexpected '$message' (T_VARIABLE) in /home/ewebid/public_html/v_email.php on line 81
+[10-Feb-2022 05:00:01 UTC] PHP Parse error:  syntax error, unexpected 'en' (T_STRING) in /home/ewebid/public_html/v_email.php on line 81
+[10-Feb-2022 05:04:01 UTC] PHP Parse error:  syntax error, unexpected 'en' (T_STRING) in /home/ewebid/public_html/v_email.php on line 80
+[10-Feb-2022 22:36:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer1\PHPMailer' not found in /home/ewebid/public_html/sendMail.php:80
+Stack trace:
+#0 {main}
+  thrown in /home/ewebid/public_html/sendMail.php on line 80
+[10-Feb-2022 16:01:01 UTC] PHP Warning:  The use statement with non-compound name 'PHPMailerPHPMailerPHPMailer' has no effect in /home/ewebid/public_html/sendMail.php on line 3
+[10-Feb-2022 16:01:01 UTC] PHP Warning:  The use statement with non-compound name 'PHPMailerPHPMailerException' has no effect in /home/ewebid/public_html/sendMail.php on line 4
+[10-Feb-2022 16:10:01 UTC] PHP Warning:  The use statement with non-compound name 'PHPMailerPHPMailerPHPMailer' has no effect in /home/ewebid/public_html/sendMail.php on line 3
+[10-Feb-2022 16:10:01 UTC] PHP Warning:  The use statement with non-compound name 'PHPMailerPHPMailerException' has no effect in /home/ewebid/public_html/sendMail.php on line 4
+[10-Feb-2022 23:10:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer1\PHPMailer' not found in /home/ewebid/public_html/sendMail.php:86
+Stack trace:
+#0 {main}
+  thrown in /home/ewebid/public_html/sendMail.php on line 86
+[10-Feb-2022 16:14:01 UTC] PHP Warning:  The use statement with non-compound name 'PHPMailerPHPMailerPHPMailer' has no effect in /home/ewebid/public_html/sendMail.php on line 3
+[10-Feb-2022 16:14:01 UTC] PHP Warning:  The use statement with non-compound name 'PHPMailerPHPMailerException' has no effect in /home/ewebid/public_html/sendMail.php on line 4
+[10-Feb-2022 16:17:01 UTC] PHP Warning:  The use statement with non-compound name 'PHPMailerPHPMailerPHPMailer' has no effect in /home/ewebid/public_html/sendMail.php on line 3
+[10-Feb-2022 16:17:01 UTC] PHP Warning:  The use statement with non-compound name 'PHPMailerPHPMailerException' has no effect in /home/ewebid/public_html/sendMail.php on line 4
+[10-Feb-2022 16:35:02 UTC] PHP Warning:  The use statement with non-compound name 'PHPMailerPHPMailerPHPMailer' has no effect in /home/ewebid/public_html/sendMail.php on line 3
+[10-Feb-2022 16:35:02 UTC] PHP Warning:  The use statement with non-compound name 'PHPMailerPHPMailerException' has no effect in /home/ewebid/public_html/sendMail.php on line 4
+[10-Feb-2022 16:42:01 UTC] PHP Warning:  The use statement with non-compound name 'PHPMailerPHPMailerPHPMailer' has no effect in /home/ewebid/public_html/sendMail.php on line 3
+[10-Feb-2022 16:42:01 UTC] PHP Warning:  The use statement with non-compound name 'PHPMailerPHPMailerException' has no effect in /home/ewebid/public_html/sendMail.php on line 4
+[10-Feb-2022 23:42:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/ewebid/public_html/sendMail.php:86
+Stack trace:
+#0 {main}
+  thrown in /home/ewebid/public_html/sendMail.php on line 86
+[10-Feb-2022 16:46:01 UTC] PHP Warning:  The use statement with non-compound name 'PHPMailerPHPMailerPHPMailer' has no effect in /home/ewebid/public_html/sendMail.php on line 3
+[10-Feb-2022 16:46:01 UTC] PHP Warning:  The use statement with non-compound name 'PHPMailerPHPMailerException' has no effect in /home/ewebid/public_html/sendMail.php on line 4
+[10-Feb-2022 16:51:01 UTC] PHP Warning:  The use statement with non-compound name 'PHPMailerPHPMailerPHPMailer' has no effect in /home/ewebid/public_html/sendMail.php on line 3
+[10-Feb-2022 16:51:01 UTC] PHP Warning:  The use statement with non-compound name 'PHPMailerPHPMailerException' has no effect in /home/ewebid/public_html/sendMail.php on line 4
+[10-Feb-2022 16:57:01 UTC] PHP Warning:  The use statement with non-compound name 'PHPMailerPHPMailerPHPMailer' has no effect in /home/ewebid/public_html/sendMail.php on line 3
+[10-Feb-2022 16:57:01 UTC] PHP Warning:  The use statement with non-compound name 'PHPMailerPHPMailerException' has no effect in /home/ewebid/public_html/sendMail.php on line 4
+[11-Feb-2022 00:53:01 Asia/Jakarta] PHP Notice:  Undefined variable: headers in /home/ewebid/public_html/v_email.php on line 83
+[11-Feb-2022 00:53:01 Asia/Jakarta] PHP Warning:  mail(): headers parameter must be string or array in /home/ewebid/public_html/v_email.php on line 83
+[11-Feb-2022 00:57:01 Asia/Jakarta] PHP Notice:  Undefined variable: headers in /home/ewebid/public_html/v_email.php on line 82
+[11-Feb-2022 01:00:01 Asia/Jakarta] PHP Notice:  Undefined variable: headers in /home/ewebid/public_html/v_email.php on line 82
+[11-Feb-2022 01:05:01 Asia/Jakarta] PHP Notice:  Undefined variable: headers in /home/ewebid/public_html/v_email.php on line 82
+[11-Feb-2022 01:07:01 Asia/Jakarta] PHP Notice:  Undefined variable: headers in /home/ewebid/public_html/v_email.php on line 82
+[11-Feb-2022 12:00:04 Asia/Jakarta] PHP Notice:  Undefined variable: headers in /home/ewebid/public_html/v_email.php on line 82
+[12-Feb-2022 06:41:01 Asia/Jakarta] PHP Notice:  Undefined variable: headers in /home/ewebid/public_html/v_email.php on line 82
+[12-Feb-2022 06:50:01 Asia/Jakarta] PHP Notice:  Undefined variable: headers in /home/ewebid/public_html/v_email.php on line 82
+[12-Feb-2022 21:18:02 Asia/Jakarta] PHP Notice:  Undefined variable: Body in /home/ewebid/public_html/v_email_PHPmailer.php on line 102
+[12-Feb-2022 21:18:04 Asia/Jakarta] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/ewebid/public_html/vendor/PHPMailer/src/PHPMailer.php:2171
+Stack trace:
+#0 /home/ewebid/public_html/vendor/PHPMailer/src/PHPMailer.php(1982): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/ewebid/public_html/vendor/PHPMailer/src/PHPMailer.php(1654): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Sat, 12 F...', 'Selamat Malam.....')
+#2 /home/ewebid/public_html/vendor/PHPMailer/src/PHPMailer.php(1492): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ewebid/public_html/v_email_PHPmailer.php(112): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/ewebid/public_html/vendor/PHPMailer/src/PHPMailer.php on line 2171
+[12-Feb-2022 21:44:01 Asia/Jakarta] PHP Notice:  Undefined variable: Body in /home/ewebid/public_html/v_email_PHPmailer.php on line 103
+[12-Feb-2022 21:44:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function sendmail() in /home/ewebid/public_html/v_email_PHPmailer.php:115
+Stack trace:
+#0 {main}
+  thrown in /home/ewebid/public_html/v_email_PHPmailer.php on line 115
+[12-Feb-2022 21:47:01 Asia/Jakarta] PHP Notice:  Undefined variable: Body in /home/ewebid/public_html/v_email_PHPmailer.php on line 103
+[12-Feb-2022 21:47:03 Asia/Jakarta] PHP Notice:  Undefined variable: Body in /home/ewebid/public_html/v_email_PHPmailer.php on line 103
+[12-Feb-2022 21:47:04 Asia/Jakarta] PHP Notice:  Undefined variable: Body in /home/ewebid/public_html/v_email_PHPmailer.php on line 103
+[12-Feb-2022 21:47:06 Asia/Jakarta] PHP Notice:  Undefined variable: Body in /home/ewebid/public_html/v_email_PHPmailer.php on line 103
+[12-Feb-2022 21:49:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/ewebid/public_html/v_email_PHPmailer.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/ewebid/public_html/v_email_PHPmailer.php on line 89
+[12-Feb-2022 14:56:01 UTC] PHP Warning:  require(vendor/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/ewebid/public_html/v_email_PHPmailer.php on line 6
+[12-Feb-2022 14:56:01 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/PHPMailerAutoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/ewebid/public_html/v_email_PHPmailer.php on line 6
+[12-Feb-2022 15:01:01 UTC] PHP Warning:  require(vendor/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/ewebid/public_html/v_email_PHPmailer.php on line 6
+[12-Feb-2022 15:01:01 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/PHPMailerAutoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/ewebid/public_html/v_email_PHPmailer.php on line 6
+[12-Feb-2022 22:04:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/ewebid/public_html/v_email_PHPmailer.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/ewebid/public_html/v_email_PHPmailer.php on line 89
+[12-Feb-2022 22:06:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/ewebid/public_html/v_email_PHPmailer.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/ewebid/public_html/v_email_PHPmailer.php on line 89
+[12-Feb-2022 22:08:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/ewebid/public_html/v_email_PHPmailer.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/ewebid/public_html/v_email_PHPmailer.php on line 89
+[12-Feb-2022 15:15:01 UTC] PHP Parse error:  syntax error, unexpected 'Asia' (T_STRING) in /home/ewebid/public_html/v_email_PHPmailer.php on line 8
+[12-Feb-2022 22:16:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home/ewebid/public_html/v_email_PHPmailer.php:85
+Stack trace:
+#0 {main}
+  thrown in /home/ewebid/public_html/v_email_PHPmailer.php on line 85
+[12-Feb-2022 22:33:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home/ewebid/public_html/v_email_PHPmailer.php:84
+Stack trace:
+#0 {main}
+  thrown in /home/ewebid/public_html/v_email_PHPmailer.php on line 84
+[12-Feb-2022 15:37:01 UTC] PHP Warning:  require(vendor/PHPMailer/PHPMailer.php): failed to open stream: No such file or directory in /home/ewebid/public_html/v_email_PHPmailer.php on line 7
+[12-Feb-2022 15:37:01 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/PHPMailer/PHPMailer.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/ewebid/public_html/v_email_PHPmailer.php on line 7
+[12-Feb-2022 15:46:01 UTC] PHP Warning:  require(vendor/PHPMailer/PHPMailer.php): failed to open stream: No such file or directory in /home/ewebid/public_html/v_email_PHPmailer.php on line 7
+[12-Feb-2022 15:46:01 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/PHPMailer/PHPMailer.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/ewebid/public_html/v_email_PHPmailer.php on line 7
+[12-Feb-2022 16:20:02 UTC] PHP Warning:  require(vendor/PHPMailer/PHPMailer.php): failed to open stream: No such file or directory in /home/ewebid/public_html/v_email_PHPmailer.php on line 7
+[12-Feb-2022 16:20:02 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/PHPMailer/PHPMailer.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/ewebid/public_html/v_email_PHPmailer.php on line 7
+[12-Feb-2022 16:26:01 UTC] PHP Warning:  require(vendor/PHPMailer/PHPMailer.php): failed to open stream: No such file or directory in /home/ewebid/public_html/v_email_PHPmailer.php on line 7
+[12-Feb-2022 16:26:01 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/PHPMailer/PHPMailer.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/ewebid/public_html/v_email_PHPmailer.php on line 7
+[12-Feb-2022 16:28:01 UTC] PHP Warning:  require(vendor/PHPMailer/PHPMailer.php): failed to open stream: No such file or directory in /home/ewebid/public_html/v_email_PHPmailer.php on line 7
+[12-Feb-2022 16:28:01 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/PHPMailer/PHPMailer.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/ewebid/public_html/v_email_PHPmailer.php on line 7
+[12-Feb-2022 16:30:02 UTC] PHP Warning:  require(vendor/PHPMailer/PHPMailer.php): failed to open stream: No such file or directory in /home/ewebid/public_html/v_email_PHPmailer.php on line 7
+[12-Feb-2022 16:30:02 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/PHPMailer/PHPMailer.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/ewebid/public_html/v_email_PHPmailer.php on line 7
+[12-Feb-2022 16:31:01 UTC] PHP Warning:  require(vendor/PHPMailer/PHPMailer.php): failed to open stream: No such file or directory in /home/ewebid/public_html/v_email_PHPmailer.php on line 7
+[12-Feb-2022 16:31:01 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/PHPMailer/PHPMailer.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/ewebid/public_html/v_email_PHPmailer.php on line 7
+[12-Feb-2022 16:39:01 UTC] PHP Fatal error:  Cannot use PHPMailer\PHPMailer\SMTP as SMTP because the name is already in use in /home/ewebid/public_html/v_email_PHPmailer.php on line 7
+[12-Feb-2022 16:42:01 UTC] PHP Fatal error:  Cannot use PHPMailer\PHPMailer\SMTP as SMTP because the name is already in use in /home/ewebid/public_html/v_email_PHPmailer.php on line 7
+[12-Feb-2022 16:45:01 UTC] PHP Fatal error:  Cannot use PHPMailer\PHPMailer\SMTP as SMTP because the name is already in use in /home/ewebid/public_html/v_email_PHPmailer.php on line 7
+[12-Feb-2022 16:48:01 UTC] PHP Fatal error:  Cannot use PHPMailer\PHPMailer\SMTP as SMTP because the name is already in use in /home/ewebid/public_html/v_email_PHPmailer.php on line 7
+[12-Feb-2022 16:50:02 UTC] PHP Warning:  require(vendor/PHPMailer/PHPMailer.php): failed to open stream: No such file or directory in /home/ewebid/public_html/v_email_PHPmailer.php on line 11
+[12-Feb-2022 16:50:02 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/PHPMailer/PHPMailer.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/ewebid/public_html/v_email_PHPmailer.php on line 11
+[13-Feb-2022 00:48:01 Asia/Jakarta] PHP Notice:  Undefined variable: jk in /home/ewebid/public_html/v_email.php on line 80
+[13-Feb-2022 00:48:01 Asia/Jakarta] PHP Notice:  Trying to get property 'user_nama' of non-object in /home/ewebid/public_html/v_email.php on line 80
+[01-Mar-2022 02:25:03 Asia/Jakarta] PHP Notice:  Undefined index: peminjaman_backlist in /home/ewebid/public_html/v_email2.php on line 93
+[01-Mar-2022 02:25:03 Asia/Jakarta] PHP Notice:  Undefined variable: update in /home/ewebid/public_html/v_email2.php on line 95
+[01-Mar-2022 02:25:03 Asia/Jakarta] PHP Warning:  mysqli_query(): Empty query in /home/ewebid/public_html/v_email2.php on line 95
+[01-Mar-2022 02:25:03 Asia/Jakarta] PHP Notice:  Undefined variable: update in /home/ewebid/public_html/v_email2.php on line 97
+[01-Mar-2022 02:25:03 Asia/Jakarta] PHP Notice:  Undefined variable: process in /home/ewebid/public_html/v_email2.php on line 102
+[01-Mar-2022 02:25:03 Asia/Jakarta] PHP Notice:  Undefined index: peminjaman_backlist in /home/ewebid/public_html/v_email2.php on line 93
+[01-Mar-2022 02:25:03 Asia/Jakarta] PHP Notice:  Undefined variable: update in /home/ewebid/public_html/v_email2.php on line 95
+[01-Mar-2022 02:25:03 Asia/Jakarta] PHP Warning:  mysqli_query(): Empty query in /home/ewebid/public_html/v_email2.php on line 95
+[01-Mar-2022 02:25:03 Asia/Jakarta] PHP Notice:  Undefined variable: update in /home/ewebid/public_html/v_email2.php on line 97
+[01-Mar-2022 02:25:03 Asia/Jakarta] PHP Notice:  Undefined variable: process in /home/ewebid/public_html/v_email2.php on line 102
+[01-Mar-2022 02:25:03 Asia/Jakarta] PHP Notice:  Undefined index: peminjaman_backlist in /home/ewebid/public_html/v_email2.php on line 93
+[01-Mar-2022 02:25:03 Asia/Jakarta] PHP Notice:  Undefined variable: update in /home/ewebid/public_html/v_email2.php on line 95
+[01-Mar-2022 02:25:03 Asia/Jakarta] PHP Warning:  mysqli_query(): Empty query in /home/ewebid/public_html/v_email2.php on line 95
+[01-Mar-2022 02:25:03 Asia/Jakarta] PHP Notice:  Undefined variable: update in /home/ewebid/public_html/v_email2.php on line 97
+[01-Mar-2022 02:25:03 Asia/Jakarta] PHP Notice:  Undefined variable: process in /home/ewebid/public_html/v_email2.php on line 102
+[01-Mar-2022 02:25:03 Asia/Jakarta] PHP Notice:  Undefined index: peminjaman_backlist in /home/ewebid/public_html/v_email2.php on line 93
+[01-Mar-2022 02:25:03 Asia/Jakarta] PHP Notice:  Undefined variable: update in /home/ewebid/public_html/v_email2.php on line 95
+[01-Mar-2022 02:25:03 Asia/Jakarta] PHP Warning:  mysqli_query(): Empty query in /home/ewebid/public_html/v_email2.php on line 95
+[01-Mar-2022 02:25:03 Asia/Jakarta] PHP Notice:  Undefined variable: update in /home/ewebid/public_html/v_email2.php on line 97
+[01-Mar-2022 02:25:03 Asia/Jakarta] PHP Notice:  Undefined variable: process in /home/ewebid/public_html/v_email2.php on line 102
+[01-Mar-2022 02:25:03 Asia/Jakarta] PHP Notice:  Undefined index: peminjaman_backlist in /home/ewebid/public_html/v_email2.php on line 93
+[01-Mar-2022 02:25:03 Asia/Jakarta] PHP Notice:  Undefined variable: update in /home/ewebid/public_html/v_email2.php on line 95
+[01-Mar-2022 02:25:03 Asia/Jakarta] PHP Warning:  mysqli_query(): Empty query in /home/ewebid/public_html/v_email2.php on line 95
+[01-Mar-2022 02:25:03 Asia/Jakarta] PHP Notice:  Undefined variable: update in /home/ewebid/public_html/v_email2.php on line 97
+[01-Mar-2022 02:25:03 Asia/Jakarta] PHP Notice:  Undefined variable: process in /home/ewebid/public_html/v_email2.php on line 102
+[01-Mar-2022 02:25:03 Asia/Jakarta] PHP Notice:  Undefined index: peminjaman_backlist in /home/ewebid/public_html/v_email2.php on line 93
+[01-Mar-2022 02:25:03 Asia/Jakarta] PHP Notice:  Undefined variable: update in /home/ewebid/public_html/v_email2.php on line 95
+[01-Mar-2022 02:25:03 Asia/Jakarta] PHP Warning:  mysqli_query(): Empty query in /home/ewebid/public_html/v_email2.php on line 95
+[01-Mar-2022 02:25:03 Asia/Jakarta] PHP Notice:  Undefined variable: update in /home/ewebid/public_html/v_email2.php on line 97
+[01-Mar-2022 02:25:03 Asia/Jakarta] PHP Notice:  Undefined variable: process in /home/ewebid/public_html/v_email2.php on line 102
+[01-Mar-2022 02:25:03 Asia/Jakarta] PHP Notice:  Undefined index: peminjaman_backlist in /home/ewebid/public_html/v_email2.php on line 93
+[01-Mar-2022 02:25:03 Asia/Jakarta] PHP Notice:  Undefined variable: update in /home/ewebid/public_html/v_email2.php on line 95
+[01-Mar-2022 02:25:03 Asia/Jakarta] PHP Warning:  mysqli_query(): Empty query in /home/ewebid/public_html/v_email2.php on line 95
+[01-Mar-2022 02:25:03 Asia/Jakarta] PHP Notice:  Undefined variable: update in /home/ewebid/public_html/v_email2.php on line 97
+[01-Mar-2022 02:25:03 Asia/Jakarta] PHP Notice:  Undefined variable: process in /home/ewebid/public_html/v_email2.php on line 102
+[01-Mar-2022 02:25:03 Asia/Jakarta] PHP Notice:  Undefined index: peminjaman_backlist in /home/ewebid/public_html/v_email2.php on line 93
+[01-Mar-2022 02:25:03 Asia/Jakarta] PHP Notice:  Undefined variable: update in /home/ewebid/public_html/v_email2.php on line 95
+[01-Mar-2022 02:25:03 Asia/Jakarta] PHP Warning:  mysqli_query(): Empty query in /home/ewebid/public_html/v_email2.php on line 95
+[01-Mar-2022 02:25:03 Asia/Jakarta] PHP Notice:  Undefined variable: update in /home/ewebid/public_html/v_email2.php on line 97
+[01-Mar-2022 02:25:03 Asia/Jakarta] PHP Notice:  Undefined variable: process in /home/ewebid/public_html/v_email2.php on line 102

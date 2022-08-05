@@ -1,0 +1,12 @@
+[09-Feb-2022 16:30:02 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ewebid/public_html/application/controllers/Email.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/ewebid/public_html/application/controllers/Email.php on line 60
+[09-Feb-2022 16:32:01 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ewebid/public_html/application/controllers/Email.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/ewebid/public_html/application/controllers/Email.php on line 60
+[09-Feb-2022 16:38:01 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/ewebid/public_html/application/controllers/Email.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/ewebid/public_html/application/controllers/Email.php on line 60
