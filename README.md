@@ -3,8 +3,12 @@
 
 ## Author
 CodeIgniter 3 - ERP Apps created by :
-
 - Github : <a href="https://github.com/programmerShinobi"> Faqih Pratama Muhti | programmerShinobi </a>
+
+## Feature 
+- Verify Email Users
+- Login Authentication
+- CRUD ERP System
 
 ## User
 **Admin**
