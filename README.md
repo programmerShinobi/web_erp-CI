@@ -13,8 +13,13 @@ CodeIgniter 3 ERP Apps created by :
 
 ## Run This Apps
 - Download the master branch in terminal
-	``` 
+  ``` 
   git clone git@github.com:programmerShinobi/web_erp-CI.git
+  ```
+- Create database name : db_erp
+- Run in web browser
+  ```
+  http://localhost:8000/web_erp/
   ```
 
 
