@@ -1,7 +1,8 @@
-<h1 align="center">CodeIgniter 3 ERP Apps</h1>
+<h1 align="center">CodeIgniter 3 - ERP Apps</h1>
+<p>ERP Application - Hijau Elektronika Indonesia, PT</p>
 
 ## Author
-CodeIgniter 3 ERP Apps created by :
+CodeIgniter 3 - ERP Apps created by :
 
 - Github : <a href="https://github.com/programmerShinobi"> Faqih Pratama Muhti | programmerShinobi </a>
 
