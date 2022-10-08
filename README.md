@@ -1,8 +1,7 @@
-<h1 align="center">Laravel 8 Articles</h1>
-<p>Virtual Internship Experience (Investree) - Fullstack - Faqih Pratama Muhti</p>
+<h1 align="center">CodeIgniter 3 ERP Apps</h1>
 
 ## Author
-CodeIgniter 3 ERP-App created by :
+CodeIgniter 3 ERP Apps created by :
 
 - Github : <a href="https://github.com/programmerShinobi"> Faqih Pratama Muhti | programmerShinobi </a>
 
